@@ -1,0 +1,5 @@
+#!/bin/sh
+g++ -std=c++11 Server.cpp ServerService.cpp RPC.cpp -o server
+
+
+
